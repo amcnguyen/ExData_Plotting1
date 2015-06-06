@@ -34,6 +34,6 @@ The link to the Github repository submitted for Project 1 will contains 10 files
  
 5. Execute the script __plot4.R__ to obtain the image file __Plot4.png__ 
 
-__Note:__ Each function, once executed, will produce a graph that can be found in the directory __./EDAProject1__
+Note: Each function, once executed, will produce a graph that can be found in the directory __./EDAProject1__
 
 ***
