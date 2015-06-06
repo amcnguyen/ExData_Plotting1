@@ -17,7 +17,7 @@ plot3 <- function() {
       width = 480, 
       height = 480,
       units = "px", 
-      bg = "transparent")
+      bg = "White")
   
   plot(x = strptime(paste(dt_2d$Date, dt_2d$Time), "%d/%m/%Y %H:%M:%S"),
        y = as.numeric(dt_2d$Sub_metering_1), 

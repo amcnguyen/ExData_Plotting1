@@ -17,7 +17,7 @@ plot4 <- function() {
       width = 480, 
       height = 480,
       units = "px", 
-      bg = "transparent")
+      bg = "White")
   
   ## Define layout ------------------------------------------------------------
   

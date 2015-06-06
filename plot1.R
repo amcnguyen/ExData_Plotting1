@@ -17,7 +17,7 @@ plot1 <- function() {
       width = 480, 
       height = 480,
       units = "px", 
-      bg = "transparent")
+      bg = "White")  
   
   hist(as.numeric(dt_2d$Global_active_power), 
        main = "Global Active Power", 
