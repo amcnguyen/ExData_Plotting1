@@ -1,11 +1,11 @@
 
-### EXPLORATORY DATA ANALYSIS 
-### COURSE PROJECT 1 
-### README_FIRST.md
+#### EXPLORATORY DATA ANALYSIS 
+#### COURSE PROJECT 1 
+#### README_FIRST.md
 
 ***
 
-### COMPONENTS SUBMITTED:
+#### COMPONENTS SUBMITTED:
 
 The link to Github repository submitted for Project 1 contains the following files:
 
@@ -16,7 +16,7 @@ The link to Github repository submitted for Project 1 contains the following fil
 
 ***
 
-### EXECUTION ORDERS:
+#### EXECUTION ORDERS:
 
 1. Execute the main script __'data-EDA-project1.R'__ before any other scripts in order to: 
 
