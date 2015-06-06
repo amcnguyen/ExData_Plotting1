@@ -1,4 +1,5 @@
 ## Introduction
+(Note: Please read the document README_FIRST.md before executing any script ).
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
